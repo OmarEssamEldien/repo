@@ -1,4 +1,4 @@
-console.log('Time', new Date()+"", "+"+(-new Date().getTimezoneOffset()/60))
+console.log('Time', new Date()+"")
 
 console.log('My Name is Omar')
 
